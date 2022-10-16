@@ -1,4 +1,4 @@
-Version 1.60. Changelog:
+Version 2.60. Changelog:
 
 > Update Telegram Base to v9.0.2.0.
 
